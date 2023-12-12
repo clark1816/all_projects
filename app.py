@@ -81,7 +81,7 @@ st.subheader("My Nineteeth Project")
 st.write("I revamped my fitness app since i am very into fitness this time i used flutter to code it and included lots of cool things such as a login page, my workoout routines as well as custom ai generated workout, a leaderboard to store the users personal records and share them with everyone on the app, a feature where the user can upload a pic of thier meal they are about to eat and it tell them how many calories are in the meal, ai generated meal plans based on the users nutrition goals, physical therapy where user can tell which body parts are injured and ai will generate a physcial therapy routine for them, and many more features.  ")
 st.write("This is availbe on ios and android [Duro Fit](https://www.durofitnessapp.com/)")
 
-st.subheader("My Fifteenthn Project")
+st.subheader("My 20th Project")
 st.write("Most recently i have created a web app where you can upload a pic of your dog and AI will make it look festive  for you. ")
 st.write("here is a link to it [festive doggy ](https:/clarkstechnology.com/)")
 
