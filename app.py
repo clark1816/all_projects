@@ -61,6 +61,31 @@ st.subheader("My Fourteenth Project")
 st.write("My fourteenth project was a game that I made using unity so that I could load this game up and relax and chill out becuase coding can get a little stressful.")
 st.write("This is my game [game](https://clark1816.itch.io/amazing-racer)")
 
+st.subheader("My Fifteenthn Project")
+st.write("This project was a voice cloner where I clone Pat Mcafee Voice ")
+st.write("here is a tiktok of it working [tok](https://www.tiktok.com/t/ZT8mydYuw/)")
+
+st.subheader("My Sixteenthn Project")
+st.write("This project is a book summarizer using ai. I web scrapped all the most popular books then using pdflib to download the books and had ai summarize them")
+st.write("here is a tiktok of it working [tok](https://www.tiktok.com/t/ZT8mydYuw/)")
+
+st.subheader("My Seventeenth Project")
+st.write("This proejct was  school project that I worked on with 3 other class mates I did the buk of the coding and showed them how to many cool things while working on it. We created an aI 3d printer pluggin for the popular octoprint software which could detect when a print had fialed and would stop or pause the print and notify the user. We also created a website for this project.")
+st.write("Here is our project website where you can download the plugin from  [pluggin ](http://pushingplastics.com)")
+
+st.subheader("My Eightteenth Project")
+st.write("This project is something I am very proud of its called Interio, and is currently availabe on the app store and google play store. It has B2B and B2C capabiilities where it will allow the user to auto apply for jobs, use AI to let the user practice for an interview based on their college major. It can also be used by a business to conduct first round of interivew the company and upload a list of emails of potential candidates and the interveiw questions and candidates will get an link to a interview then their score is saved and the company and move forward to the next phase of the interview process with the candidates with the highest interview score.")
+st.write("Here is a link to interio  [interio ](http://interio.tech/)")
+
+st.subheader("My Nineteeth Project")
+st.write("I revamped my fitness app since i am very into fitness this time i used flutter to code it and included lots of cool things such as a login page, my workoout routines as well as custom ai generated workout, a leaderboard to store the users personal records and share them with everyone on the app, a feature where the user can upload a pic of thier meal they are about to eat and it tell them how many calories are in the meal, ai generated meal plans based on the users nutrition goals, physical therapy where user can tell which body parts are injured and ai will generate a physcial therapy routine for them, and many more features.  ")
+st.write("This is availbe on ios and android [Duro Fit](https://www.durofitnessapp.com/)")
+
+st.subheader("My Fifteenthn Project")
+st.write("Most recently i have created a web app where you can upload a pic of your dog and AI will make it look festive  for you. ")
+st.write("here is a link to it [festive doggy ](https:/clarkstechnology.com/)")
+
+
 st.subheader("Much More To Come...")
 st.write("Check out my github I have many small programs and helpful tools that helped me to create these projects. They are like miny projects that I made while making these major projects.")
 st.write("This is my github [github](https://github.com/clark1816)")
